@@ -1,0 +1,7 @@
+Parcel installation 
+
+npm install -D parcel-bundler
+
+npm remove parcel-bundler
+
+npm add parcel --dev
